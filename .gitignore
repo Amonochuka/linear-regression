@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+ex00/venv/
+.env/
+.venv/
+
+# Generated plots
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
